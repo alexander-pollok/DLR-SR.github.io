@@ -14,7 +14,7 @@ layout: default
 * [PySimulator]    (https://github.com/PySimulator/PySimulator)
 
 # Reproducible research
-* Franciscus L. J. van der Linden, Andreas Kloeckner and Dirk Zimmer. 
+* Franciscus L. J. van der Linden, Andreas Klöckner and Dirk Zimmer. 
   [Effects of Event-Free Noise Signals on Continuous-Time Simulation Performance]
   (https://github.com/DLR-SR-Papers/linden2015effects).
   8th Vienna International Conference on Mathematical Modelling, **in press**
