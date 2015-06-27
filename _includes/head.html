@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>{{ site.user }} - {{ site.name }}</title>
+        <link rel="stylesheet" href="stylesheets/styles.css">
+        <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    </head>
+    <body>
+
+    <div class="wrapper">
+      <header>
+        <h1>{{ site.user }}</h1>
+        <p> {{ site.name }}</p>
+
+        <p class="view"><a href="https://github.com/{{ site.user }}">View GitHub Profile</a></p>
+
+        <p><img src="{{ site.avatar }}" alt="GitHub avatar"></p>
+      </header>
+      <section>
