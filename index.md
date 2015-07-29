@@ -9,6 +9,7 @@ layout: default
 * [AdvancedNoise]  (https://github.com/DLR-SR/AdvancedNoise)
 * [PlanarMechanics](https://github.com/DLR-SR/PlanarMechanics)
 * [FaultTriggering](https://github.com/DLR-SR/FaultTriggering)
+* [FractionalOrder](https://github.com/DLR-SR/FractionalOrder)
 
 ## Repositories of associated researchers
 * [PySimulator]    (https://github.com/PySimulator/PySimulator)
